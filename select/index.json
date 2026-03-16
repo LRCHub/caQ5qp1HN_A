@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "インベーダーインベーダー",
+  "base_artist": "Kyary Pamyu Pamyu",
+  "createdAt": "2026-03-16T05:39:29.967044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/01_インベーダーインベーダー_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/02_インベーダーインベーダー_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Invader Invader [インベーダーインベーダー]",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/03_Invader_Invader_[インベーダーインベーダー]_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Invader Invader (インベーダーインベーダー)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/04_Invader_Invader_(インベーダーインベーダー)_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/05_インベーダーインベーダー_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Invader Invader (インベーダーインベーダー)",
+      "artist": "Kyary Pamyu Pamyu（きゃりーぱみゅぱみゅ）",
+      "has_synced": true,
+      "path": "select/06_Invader_Invader_(インベーダーインベーダー)_Kyary_Pamyu_Pamyu(きゃりーぱみゅぱみゅ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー -extended mix-",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": false,
+      "path": "select/07_インベーダーインベーダー_-extended_mix-_Kyary_Pamyu_Pamyu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/08_インベーダーインベーダー_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/09_インベーダーインベーダー_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/10_インベーダーインベーダー_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー - Invader Invader",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/11_インベーダーインベーダー_-_Invader_Invader_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "インベーダーインベーダー",
+      "artist": "Kyary Pamyu Pamyu (きゃりーぱみゅぱみゅ)",
+      "has_synced": true,
+      "path": "select/12_インベーダーインベーダー_Kyary_Pamyu_Pamyu_(きゃりーぱみゅぱみゅ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_01_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_02_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_03_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_04_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_05_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_06_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_07_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_08_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_09_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "インベーダーインベーダー",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_10_インベーダーインベーダー_きゃりーぱみゅぱみゅ.txt"
+    }
+  ]
+}
